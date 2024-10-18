@@ -1,3 +1,3 @@
 whyour/qinglong:latest
-hello-world
+metacubex/mihomo
 
