@@ -1,3 +1,2 @@
-whyour/qinglong:latest
-metacubex/mihomo
+izumiko/mihomo
 
